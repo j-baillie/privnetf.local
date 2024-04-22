@@ -20,3 +20,8 @@ LOG=$LOGPATH$LOGFILE
 SRC=/var/www/privnetf/
 
 [These variables are used in Support_Resources/backup_privnetf.sh]
+
+## HTML aid
+
+[text](https://htmlcodeeditor.com/) 
+is being used to aid html design - because I don't know frontend
