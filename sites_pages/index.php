@@ -127,8 +127,10 @@
     <div class="sidebar">
       <h1>Additional Links</h1>
       <ul class="sidebar-links">
- 		    <li><a href="https://github.com/j-baillie" target="_blank">Github - j-baillie</a></li>
-        <li><a href="https://steamcommunity.com/id/roy5ra/" target="_blank">Steam - Turambar</a></li>
+        <li><a href="https://github.com/j-baillie" target="blank">Github - j-baillie</a></li>
+        <li><a href="https://steamcommunity.com/id/roy5ra/" target="blank">Steam - Turambar</a></li>
+        <li><a href="https://youtu.be/dQw4w9WgXcQ" > Email contact </a></li>
+        <li><a href="mailto:bozo@yahoo.com">actual Email contact</a></li>
       </ul>
     </div>
   </div>
